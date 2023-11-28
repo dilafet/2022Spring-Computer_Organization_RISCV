@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/15774/lab4/lab4.gen/sources_1/ip/data_mem/sim/data_mem.v,1650373826,verilog,,C:/Users/15774/lab4/lab4.gen/sources_1/ip/instruction_mem/sim/instruction_mem.v,,data_mem,,,,,,,,
+C:/Users/15774/lab4/lab4.gen/sources_1/ip/instruction_mem/sim/instruction_mem.v,1650373827,verilog,,C:/Users/15774/lab4/lab4.srcs/sources_1/new/lab4.v,,instruction_mem,,,,,,,,
+C:/Users/15774/lab4/lab4.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+C:/Users/15774/lab4/lab4.srcs/sim_1/new/test.v,1650379000,verilog,,,,test_bench,,,,,,,,
+C:/Users/15774/lab4/lab4.srcs/sources_1/new/lab4.v,1650378157,verilog,,C:/Users/15774/lab4/lab4.srcs/sim_1/new/test.v,,PC;alu;branch;cpu;immediate_Generator;registers,,,,,,,,
+C:/Users/15774/lab4/lab4.srcs/sources_1/new/motherboard.v,1650278428,verilog,,,,motherboard,,,,,,,,
+C:/Users/15774/lab4/lab4.srcs/sources_1/new/pdu.v,1650293540,verilog,,C:/Users/15774/lab4/lab4.srcs/sources_1/new/motherboard.v,,pdu,,,,,,,,

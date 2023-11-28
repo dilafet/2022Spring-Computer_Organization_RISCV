@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/15774/lab202/lab202.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1648044883,verilog,,C:/Users/15774/lab202/lab202.gen/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v,,blk_mem_gen_0,,,,,,,,
+C:/Users/15774/lab202/lab202.gen/sources_1/ip/blk_mem_gen_1_NC/sim/blk_mem_gen_1_NC.v,1648472611,verilog,,C:/Users/15774/lab202/lab202.gen/sources_1/ip/blk_mem_gen_1_RF/sim/blk_mem_gen_1_RF.v,,blk_mem_gen_1_NC,,,,,,,,
+C:/Users/15774/lab202/lab202.gen/sources_1/ip/blk_mem_gen_1_RF/sim/blk_mem_gen_1_RF.v,1648472565,verilog,,C:/Users/15774/lab202/lab202.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,,blk_mem_gen_1_RF,,,,,,,,
+C:/Users/15774/lab202/lab202.gen/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v,1648045193,verilog,,C:/Users/15774/lab202/lab202.srcs/sim_1/new/lab202.v,,dist_mem_gen_0,,,,,,,,
+C:/Users/15774/lab202/lab202.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+C:/Users/15774/lab202/lab202.srcs/sim_1/new/lab202.v,1648474195,verilog,,,,lab202,,,,,,,,

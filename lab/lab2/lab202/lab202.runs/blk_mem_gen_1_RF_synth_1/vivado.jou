@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Mon Mar 28 21:02:47 2022
+# Process ID: 14440
+# Current directory: C:/Users/15774/lab202/lab202.runs/blk_mem_gen_1_RF_synth_1
+# Command line: vivado.exe -log blk_mem_gen_1_RF.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source blk_mem_gen_1_RF.tcl
+# Log file: C:/Users/15774/lab202/lab202.runs/blk_mem_gen_1_RF_synth_1/blk_mem_gen_1_RF.vds
+# Journal file: C:/Users/15774/lab202/lab202.runs/blk_mem_gen_1_RF_synth_1\vivado.jou
+# Running On: DESKTOP-PUT29RU, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 8, Host memory: 34273 MB
+#-----------------------------------------------------------
+source blk_mem_gen_1_RF.tcl -notrace

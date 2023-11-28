@@ -1,0 +1,11 @@
++==============+===============+====================================+
+| Launch Clock | Capture Clock | Pin                                |
++==============+===============+====================================+
+| sys_clk_pin  | sys_clk_pin   | cpu/ecall/isLeadingZero_reg/D      |
+| sys_clk_pin  | sys_clk_pin   | cpu/PC/pc_reg[30]/D                |
+| sys_clk_pin  | sys_clk_pin   | cpu/PC/pc_reg[0]/D                 |
+| sys_clk_pin  | sys_clk_pin   | cpu/IF_ID_instruction_reg[3]/D     |
+| sys_clk_pin  | sys_clk_pin   | cpu/ecall/mem_read_addr_reg[7]_C/D |
+| sys_clk_pin  | sys_clk_pin   | cpu/IF_ID_pc_reg[11]/D             |
+| sys_clk_pin  | sys_clk_pin   | cpu/IF_ID_pc_reg[6]/D              |
++--------------+---------------+------------------------------------+
